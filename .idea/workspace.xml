@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb574f5-53cd-4f67-88f5-f2719f0f96e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10. Getter &amp; Setter/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Latihan Enkapsulasi/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="1bb574f5-53cd-4f67-88f5-f2719f0f96e6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11. Latihan Enkapsulasi/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
+            <state relative-caret-position="952">
               <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
@@ -144,7 +141,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1280" height="776" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16229117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16229117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -180,7 +177,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11. Latihan Enkapsulasi/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
+        <state relative-caret-position="952">
           <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
