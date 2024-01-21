@@ -1,5 +1,5 @@
 ## Apa Itu Overriding?
- **Overriding** adalah sebuah fitur dalam konsep object oriented programming (OOP) untuk melakukan penimpaan dari fungsi yang telah didefinisikan sebelumnya
+ **Overriding** adalah sebuah fitur dalam konsep object oriented programming (OOP) untuk melakukan penimpaan dari fungsi yang telah dibuat sebelumnya.
 
 ## Cara Melakukan Overriding
 
@@ -54,4 +54,4 @@ berjalan dengan cepat...
 ```
 
 ## Kesimpulan
- Dengan melakukan overriding kita dapat menimpa *method* yang sebelumnya telah dibuat di kelas induk, sehingga tidak perlu khawatir program akan bingung memilih *method* yang mana karena yang digunakan adalah *method* pada kelas turunan bukan di kelas induk
+ Dengan melakukan overriding kita dapat menimpa *method* yang sebelumnya telah dibuat di kelas induk, sehingga tidak perlu khawatir program akan bingung memilih *method* yang mana karena yang digunakan adalah *method* pada kelas turunan bukan di kelas induk.
