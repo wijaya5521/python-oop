@@ -10,20 +10,16 @@ There is two style we write code :
 - OOP read code based on object and it relation not read from top to bottom
 '''
 
-# Study case "Hero in mobile game"
-class Hero:
+# Study case "Kelas Kendaraan"
+
+class Kendaraan:
     pass
 
-hero1 = Hero()
-hero2 = Hero()
+mobil = Kendaraan()
+sepeda = Kendaraan()
 
-hero1.name = "Zilong"
-hero2.name = "Layla"
+mobil.name = "Toyota"
+sepeda.name = "BMX"
 
-hero1.health = 100
-hero2.health = 80
-
-print(hero1.name)
-print(hero1.health)
-print(hero2.name)
-print(hero2.health)
+print(mobil.name)
+print(sepeda.name)
